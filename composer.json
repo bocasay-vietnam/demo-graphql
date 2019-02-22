@@ -1,0 +1,13 @@
+{
+    "name": "mathieu/demo",
+    "require": {
+        "webonyx/graphql-php": "^0.13.0",
+        "leocavalcante/siler": "^1.4"
+    },
+    "authors": [
+        {
+            "name": "Mathieu Bernard",
+            "email": "mbernard@bocasay.com"
+        }
+    ]
+}
